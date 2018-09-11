@@ -52,6 +52,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RichardD.cs" />
+    <Compile Include="RobertDanielsson.cs" />
     <Compile Include="SebastianEnerstrand.cs" />
     <Compile Include="Tom.cs" />
     <Compile Include="RobertNordgren.cs" />
