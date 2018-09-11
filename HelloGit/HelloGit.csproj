@@ -47,6 +47,7 @@
     <Compile Include="HannibalFtaw.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="FredrikRonnehag.cs" />
+    <Compile Include="Melvin.cs" />
     <Compile Include="MichaelFors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
