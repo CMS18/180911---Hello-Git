@@ -15,10 +15,10 @@ namespace HelloGit
             for (int i = 0; i < 100; i++)
             {
                 if(i % 5 == 0) {
-                    Console.WriteLine("Inte Zorro");
+                    Console.WriteLine("Inte Tom");
                     tomCounter--;
                 }
-                Console.WriteLine("ZORRO");
+                Console.WriteLine("Tom");
 
                 
                 tomCounter++;
@@ -26,7 +26,7 @@ namespace HelloGit
 
             }
 
-            Console.WriteLine("Antalet ZORRO's: " +tomCounter);
+            Console.WriteLine("Anatelt tom's: " +tomCounter);
 
             Console.ReadLine();
         }
