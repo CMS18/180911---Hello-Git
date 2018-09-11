@@ -8,7 +8,7 @@ namespace HelloGit
 {
     class Melvin
     {
-        public static void SayHi()
+        public static void hello()
         {
             Console.WriteLine("Melvin ;)");
         }
