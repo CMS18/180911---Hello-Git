@@ -44,9 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EllenDemerus.cs" />
+    <Compile Include="AlbinLjunghusen.cs" />
     <Compile Include="FredrikHaglund.cs" />
+    <Compile Include="FredrikRonnehag.cs" />
+    <Compile Include="MichaelFors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SebastianEnerstrand.cs" />
+    <Compile Include="Tom.cs" />
+    <Compile Include="RobertNordgren.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
