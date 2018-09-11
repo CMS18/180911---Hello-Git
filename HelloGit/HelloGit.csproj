@@ -57,6 +57,7 @@
     <Compile Include="Tom.cs" />
     <Compile Include="RobertNordgren.cs" />
     <Compile Include="RickardU.cs" />
+    <Compile Include="VemKanDetVara.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
