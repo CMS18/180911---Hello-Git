@@ -8,7 +8,7 @@ namespace HelloGit {
     class AlbinLjunghusen {
         public static void Greet() {
             Console.WriteLine("Albin!!!!!!!!!! wow");
-            Console.BackgroundColor = ConsoleColor.Magenta;  //Förlåt
+            Console.BackgroundColor = ConsoleColor.DarkYellow;  //Förlåt
 
         }
 

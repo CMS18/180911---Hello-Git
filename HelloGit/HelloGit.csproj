@@ -62,6 +62,7 @@
     <Compile Include="RickardU.cs" />
     <Compile Include="RobertDanielsson.cs" />
     <Compile Include="RobertNordgren.cs" />
+    <Compile Include="RobertTadjer.cs" />
     <Compile Include="SebastianEnerstrand.cs" />
     <Compile Include="SebastianSagrelius.cs" />
     <Compile Include="Tom.cs" />
