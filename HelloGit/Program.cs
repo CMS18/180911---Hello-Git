@@ -8,6 +8,8 @@ namespace HelloGit {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Detta är klassen CMS18:");
+            FredrikHaglund.SayHi();
+            Tom.HejTom();
             MichaelFors.Michael();
             FredrikRonnehag.SayHi();
             FredrikHaglund.SayHi();
@@ -28,6 +30,9 @@ namespace HelloGit {
             HelloMax.SayHello();
 
             Caroline.CarolineR();
+            RobertTadjer.RobertT();
+            manda.Hello();
+            EllenDemerus.EllenSaysHi();
         }
     }
 }
