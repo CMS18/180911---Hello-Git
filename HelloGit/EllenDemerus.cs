@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloGit
 {
-    class Melvin
+    class EllenDemerus
     {
-        public static void hello()
+        public static void EllenSaysHi()
         {
-            Console.WriteLine("Melvin ;)");
+            Console.WriteLine("Ellen säger Hej!");
         }
     }
 }

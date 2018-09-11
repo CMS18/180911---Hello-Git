@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace HelloGit
 {
-    class Melvin
+    class RichardD
     {
-        public static void hello()
+        public static void RichardDavy()
         {
-            Console.WriteLine("Melvin ;)");
+            Console.WriteLine("Hej");
         }
     }
 }
