@@ -44,8 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Caroline.cs" />
-    <Compile Include="AlbinLjunghusen.cs" />
-    <Compile Include="HannibalFtaw.cs" />
     <Compile Include="Dennis.cs" />
     <Compile Include="AlbinLjunghusen.cs" />
     <Compile Include="HannibalFtaw.cs" />
@@ -54,10 +52,18 @@
     <Compile Include="HelloMax.cs" />
     <Compile Include="GabrielTjena.cs" />
     <Compile Include="FredrikRonnehag.cs" />
+    <Compile Include="Ludwig.cs" />
     <Compile Include="Melvin.cs" />
     <Compile Include="MichaelFors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RickardU.cs" />
+    <Compile Include="RobertDanielsson.cs" />
+    <Compile Include="RobertNordgren.cs" />
+    <Compile Include="SebastianEnerstrand.cs" />
+    <Compile Include="SebastianSagrelius.cs" />
+    <Compile Include="Tom.cs" />
+    <Compile Include="VemKanDetVara.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
