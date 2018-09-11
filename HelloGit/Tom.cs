@@ -10,7 +10,11 @@ namespace HelloGit
     {
         public static void HejTom()
         {
-            Console.WriteLine("Hej");
+            for (int i = 0; i < 999; i++)
+            {
+                Console.WriteLine("Hej Tom!!");
+            }
+            
         }
     }
 }
