@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,12 +11,22 @@ namespace HelloGit
     {
         public static void HejTom()
         {
-            for (int i = 0; i < 999; i++)
+            int tomCounter = 0;
+            for (int i = 0; i < 1000; i++)
             {
-                Console.WriteLine("Hej Tom!!");
-                HejTom();
-                HejTom();
+                if(i % 5 == 0) {
+                    Console.WriteLine("Inte tom");
+                    tomCounter--;
+                }
+                Console.WriteLine("Tom");
+
+                
+                tomCounter++;
+
+
             }
+
+            Console.WriteLine("Antalet Tom'ar: " +tomCounter);
 
             Console.ReadLine();
         }
