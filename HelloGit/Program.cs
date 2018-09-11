@@ -18,6 +18,7 @@ namespace HelloGit {
             MichaelFors.Michael();
             AlbinLjunghusen.Greet();
             MichaelFors.Michael();
+            LinneaEriksson.Linnea();
             RobertDanielsson.Tjenareee();
             RobertNordgren.Robert();
             HannibalFtaw.Hannibal();
