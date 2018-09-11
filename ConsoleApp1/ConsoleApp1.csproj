@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2CA2EA08-B47B-4C9A-A556-BCC51A8F4107}</ProjectGuid>
+    <ProjectGuid>{3661A545-FB3B-4684-A9EF-7A4DED783C2A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloGit</RootNamespace>
-    <AssemblyName>HelloGit</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AlbinLjunghusen.cs" />
-    <Compile Include="HannibalFtaw.cs" />
-    <Compile Include="FredrikHaglund.cs" />
-    <Compile Include="FredrikRonnehag.cs" />
-    <Compile Include="MichaelFors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RobertDanielsson.cs" />
-    <Compile Include="SebastianEnerstrand.cs" />
-    <Compile Include="Tom.cs" />
-    <Compile Include="RobertNordgren.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
