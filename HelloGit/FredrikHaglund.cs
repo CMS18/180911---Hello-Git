@@ -11,6 +11,7 @@ namespace HelloGit
         public static void SayHi()
         {
             Console.WriteLine("Fredrik wuz here!");
+            
             Console.WriteLine("Fredrik is cool! ;-)");
         }
     }
