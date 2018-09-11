@@ -28,6 +28,7 @@ namespace HelloGit {
             HelloMax.SayHello();
 
             Caroline.CarolineR();
+            manda.Hello();
             EllenDemerus.EllenSaysHi();
         }
     }
