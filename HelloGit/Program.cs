@@ -25,6 +25,8 @@ namespace HelloGit {
             RobertNordgren.Robert();
             HannibalFtaw.Hannibal();
             RickardU.HejFrånRoffe();
+            HelloMax.SayHello();
+
         }
     }
 }

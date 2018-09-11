@@ -48,6 +48,7 @@
     <Compile Include="Dennis.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="LinneaEriksson.cs" />
+    <Compile Include="HelloMax.cs" />
     <Compile Include="GabrielTjena.cs" />
     <Compile Include="FredrikRonnehag.cs" />
     <Compile Include="Melvin.cs" />
