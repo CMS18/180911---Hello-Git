@@ -13,8 +13,11 @@ namespace HelloGit
             for (int i = 0; i < 999; i++)
             {
                 Console.WriteLine("Hej Tom!!");
+                HejTom();
+                HejTom();
             }
-            
+
+            Console.ReadLine();
         }
     }
 }
