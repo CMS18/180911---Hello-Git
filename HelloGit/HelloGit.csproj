@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AlbinLjunghusen.cs" />
     <Compile Include="HannibalFtaw.cs" />
+    <Compile Include="Dennis.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="LinneaEriksson.cs" />
     <Compile Include="HelloMax.cs" />
