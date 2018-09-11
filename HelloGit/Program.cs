@@ -11,6 +11,8 @@ namespace HelloGit {
             MichaelFors.Michael();
             FredrikRonnehag.SayHi();
             FredrikHaglund.SayHi();
+            GabrielTjena.TjenaMors();
+            
             SebastianEnerstrand.SayHello();
             VemKanDetVara.HejFredrikHaglund();
             MichaelFors.Michael();
