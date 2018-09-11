@@ -12,7 +12,7 @@ namespace HelloGit
         public static void HejTom()
         {
             int tomCounter = 0;
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 20; i++)
             {
                 if(i % 5 == 0) {
                     Console.WriteLine("Inte Zorro");
@@ -28,7 +28,6 @@ namespace HelloGit
 
             Console.WriteLine("Antalet ZORRO's: " +tomCounter);
 
-            Console.ReadLine();
         }
     }
 }
