@@ -53,6 +53,7 @@
     <Compile Include="GabrielTjena.cs" />
     <Compile Include="FredrikRonnehag.cs" />
     <Compile Include="Ludwig.cs" />
+    <Compile Include="manda.cs" />
     <Compile Include="Melvin.cs" />
     <Compile Include="MichaelFors.cs" />
     <Compile Include="Program.cs" />
