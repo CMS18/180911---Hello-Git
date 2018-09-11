@@ -12,13 +12,13 @@ namespace HelloGit
         public static void HejTom()
         {
             int tomCounter = 0;
-            for (int i = 0; i < 1000; i++)
+            for (int i = 0; i < 100; i++)
             {
                 if(i % 5 == 0) {
-                    Console.WriteLine("Inte tom");
+                    Console.WriteLine("Inte Zorro");
                     tomCounter--;
                 }
-                Console.WriteLine("Tom");
+                Console.WriteLine("ZORRO");
 
                 
                 tomCounter++;
