@@ -46,6 +46,7 @@
     <Compile Include="AlbinLjunghusen.cs" />
     <Compile Include="HannibalFtaw.cs" />
     <Compile Include="FredrikHaglund.cs" />
+    <Compile Include="LinneaEriksson.cs" />
     <Compile Include="GabrielTjena.cs" />
     <Compile Include="FredrikRonnehag.cs" />
     <Compile Include="Melvin.cs" />
