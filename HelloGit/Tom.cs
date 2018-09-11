@@ -26,7 +26,7 @@ namespace HelloGit
 
             }
 
-            Console.WriteLine("Antalet Tom'ar: " +tomCounter);
+            Console.WriteLine("Antalet ZORRO's: " +tomCounter);
 
             Console.ReadLine();
         }
