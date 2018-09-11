@@ -27,6 +27,7 @@ namespace HelloGit {
             RickardU.HejFrånRoffe();
             HelloMax.SayHello();
 
+            Caroline.CarolineR();
         }
     }
 }
