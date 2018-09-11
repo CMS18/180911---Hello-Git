@@ -12,8 +12,8 @@ namespace HelloGit
         {
             Console.WriteLine("Detta är klassen CMS18:");
             FredrikHaglund.SayHi();
+            HelloMax.SayHello();
 
-            Console.WriteLine("Hej! /Max");
         }
     }
 }
