@@ -30,6 +30,7 @@ namespace HelloGit {
             Caroline.CarolineR();
             RobertTadjer.RobertT();
             manda.Hello();
+            EllenDemerus.EllenSaysHi();
         }
     }
 }
