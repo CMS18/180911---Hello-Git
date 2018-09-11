@@ -14,6 +14,7 @@ namespace HelloGit
             MichaelFors.Michael();
             FredrikRonnehag.SayHi();
             FredrikHaglund.SayHi();
+            SebastianSagrelius.SayHi();
         }
     }
 }
