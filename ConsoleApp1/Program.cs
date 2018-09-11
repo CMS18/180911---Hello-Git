@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloGit
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Detta är klassen CMS18:");
-            FredrikHaglund.SayHi();
-            MichaelFors.Michael();
-            HannibalFtaw.Hannibal();
         }
     }
 }
